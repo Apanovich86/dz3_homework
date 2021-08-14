@@ -1,0 +1,12 @@
+.wrap {
+    display: flex;
+}
+.wrap > div {
+    width: 50%;
+}
+.users-box{
+    background: lightblue;
+}
+.chosen-one {
+    background: lightgrey;
+}
